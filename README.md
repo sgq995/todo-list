@@ -19,7 +19,15 @@ Each package/app is 100% [TypeScript](https://www.typescriptlang.org).
 ## Setup
 
 ### Install
+
+To install yarn
+
+```
+npm install --global yarn
+```
+
 To install the dependencies, run the following command:
+
 ```
 node tools.js install
 ```
