@@ -25,7 +25,9 @@ To install yarn
 ```
 npm install --global yarn
 ```
+
 To install the dependencies, run the following command:
+
 ```
 node tools.js install
 ```
